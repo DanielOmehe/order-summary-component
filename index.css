@@ -151,18 +151,27 @@
 @media only screen and (max-width: 375px){
     .order-summary-wrapper{
         padding: 1rem;
+        background-image: url("images/pattern-background-mobile.svg");
     }
 
     .order-summary-details{
         padding: 1.5rem;
     }
 
+    .order-plan{
+        margin-right: 1.5rem;
+    }
+
+    .order-pricing a{
+        font-size: .9rem;
+    }
+
     .order-plan h3{
-        font-size: .8rem;
+        font-size: .9rem;
     }
 
     .order-plan p{
-        font-size: .8rem;
+        font-size: .9rem;
     }
 
     .order-plan a{
