@@ -148,6 +148,16 @@
     color: var(--dark-blue-secondary);
 }
 
+.attribution{
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.attribution a{
+    text-decoration: none;
+}
+
 @media only screen and (max-width: 375px){
     .order-summary-wrapper{
         padding: 1rem;
